@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+
+File handling allows us to read and write files.
+
+This is a sample file for testing.
